@@ -9,4 +9,3 @@ Aqui ficam exercícios, anotações e pequenos projetos de estudo.
 - Montar um portfólio simples com projetos de estudo.
 
 ## 🗂️ Estrutura de Pastas
-
