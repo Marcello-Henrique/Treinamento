@@ -9,3 +9,9 @@ Aqui ficam exercícios, anotações e pequenos projetos de estudo.
 - Montar um portfólio simples com projetos de estudo.
 
 ## 🗂️ Estrutura de Pastas
+
+## 🧩 Como comentar (resumo)
+
+- **C:** `// comentário de linha` e `/* comentário de bloco */`
+- **Python:** `# comentário de linha`
+- **JavaScript (Node):** `// comentário de linha` e `/* comentário de bloco */`
