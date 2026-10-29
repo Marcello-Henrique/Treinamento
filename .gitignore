@@ -1,0 +1,13 @@
+# Binários compilados
+*.exe
+*.o
+*.out
+c/*
+!c/*.c
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
